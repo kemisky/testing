@@ -2,6 +2,8 @@
 /**
  * AGS Class
  * 
+ * This is testing for git commit
+ * 
  * @package AGS
  * @author Mike Yeung
  * @copyright (c) 2020, Cloud Design Limited
